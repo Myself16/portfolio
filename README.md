@@ -30,9 +30,9 @@ No frameworks. No build tools. Just core web fundamentals.
 
 ```id="zzc8n1"
 portfolio/
- ├── index.html
- ├── style.css
- ├── script.js
+ ├── portfolio.html
+ ├── portfolio.css
+ ├── portfolio.js
 ```
 
 ---
@@ -44,17 +44,17 @@ No setup required.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Myself16/portfolio.git
    ```
 
-2. Open `index.html` in any browser
+2. Open `portfolio.html` in any browser
 
 ---
 
 ## 🌍 Live
 
 ```id="y9c2d1"
-https://your-username.github.io/portfolio/
+https://Myself16.github.io/portfolio/
 ```
 
 ---
@@ -79,7 +79,7 @@ https://your-username.github.io/portfolio/
 ## 👤 Author
 
 Your Name
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Myself16
 
 ---
 
